@@ -34,3 +34,13 @@ extra:
 
   - icon: fontawesome/solid/paper-plane
     link: mailto:<agcaabdurrahim@outlook.com>
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+extra_css:
+  - stylesheets/extra.css
+

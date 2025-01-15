@@ -1,0 +1,29 @@
+/* Full-width content section */
+.custom-full-width {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Full-width top navigation bar */
+.custom-header-full-width {
+    width: 100% !important;
+    margin: 0 auto;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Remove default constraints on the header */
+.md-header {
+    max-width: 100% !important;
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+/* Adjust navigation bar layout if needed */
+.md-header__inner {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
