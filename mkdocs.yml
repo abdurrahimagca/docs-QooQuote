@@ -1,0 +1,36 @@
+site_name: QooQuote Developer Documentation
+site_url: http://localhost:8000/docs-qooquote
+theme:
+  features:
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.footer
+
+  logo: assets/ico_no_bg.svg
+  favicon: assets/ico_no_bg.svg
+  name: material
+  language: en
+  font: 
+    text: inter
+      
+  palette: 
+     
+    # Palette toggle for light mode
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com
+
+  - icon: fontawesome/solid/paper-plane
+    link: mailto:<agcaabdurrahim@outlook.com>
