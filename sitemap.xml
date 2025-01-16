@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://localhost:8000/docs-qooquote/</loc>
+         <lastmod>2025-01-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8000/docs-qooquote/design/</loc>
+         <lastmod>2025-01-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8000/docs-qooquote/development/</loc>
+         <lastmod>2025-01-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8000/docs-qooquote/development/diagrams/0.system/</loc>
+         <lastmod>2025-01-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8000/docs-qooquote/development/diagrams/1.data/</loc>
+         <lastmod>2025-01-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8000/docs-qooquote/development/diagrams/2.api/</loc>
+         <lastmod>2025-01-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8000/docs-qooquote/development/diagrams/3.uml/</loc>
+         <lastmod>2025-01-16</lastmod>
+    </url>
+</urlset>
