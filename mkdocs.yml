@@ -5,6 +5,7 @@ theme:
     - navigation.tabs
     - navigation.tracking
     - navigation.footer
+    - content.code.copy
 
   logo: assets/ico_no_bg.svg
   favicon: assets/ico_no_bg.svg
@@ -36,6 +37,12 @@ extra:
     link: mailto:<agcaabdurrahim@outlook.com>
 
 markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
