@@ -17,3 +17,5 @@ Bu projeyi geliştirmek için aşağıdaki teknoloji yığını tercih edilmişt
      - Verileri vektörleştirme ve arama imkanı sağlar. Gelecekte içerik bazlı arama yapmamız gerekebilir ve PostgreSQL bu konuda en iyi seçenektir.
 - **TypeORM**: TypeORM, TypeScript ve JavaScript için bir ORM'dir. Piyasada birçok ORM mevcut ve belki de ORM kullanmak her zaman en iyi çözüm değil. Ancak TypeORM, .NET dünyasındaki EntityFramework gibi, veritabanıyla etkileşim kurmanın pratik bir yolunu sunar. Kullanımı kolaydır ve iyi bir dokümantasyona sahiptir. Ayrıca PostgreSQL için yerleşik desteği bulunur, bu da projemiz için bir avantajdır.
 ***Not:*** Yine de RAW SQL kullanmayı da değerlendirebiliriz.
+
+
